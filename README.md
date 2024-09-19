@@ -1,3 +1,3 @@
-# shorebird_example
+# Shorebird Example
 
 A new Flutter project.
