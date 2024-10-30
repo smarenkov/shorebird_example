@@ -1,3 +1,3 @@
-# shorebird_example
+# Shorebird Example
 
-A new Flutter project.
+A small Flutter project with integrated ShoreBird code push functionality.
